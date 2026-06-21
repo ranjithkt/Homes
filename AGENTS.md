@@ -68,9 +68,5 @@ For any GitHub operation beyond the local repo (PRs, issues, reviews, comments, 
 <!-- BEGIN agent-identity (managed by agent-orchestration-cursor-cli) -->
 ## Agent Identity (default: deep-thinker-executor)
 
-Default identity for EVERY agent operating in this repo — orchestrator, ensemble candidates, consolidators, and any sub-agent: **deep-thinker-executor**.
-
-- Before any non-trivial work, load and follow the `deep-thinker-executor` skill/agent (the full protocol). Apply its **three-cycle reasoning protocol** — (1) first-principles analysis → (2) adversarial self-interrogation of cycle 1 → (3) stress-test + synthesis — and persist each cycle's conclusions to your stateful-work `insights.md` BEFORE you execute. Reasoning kept only in volatile context is lost to compaction; on-disk reasoning is the deliverable's foundation.
-- **Orchestrating** → apply the cycles to your planning, then delegate execution to deep-thinker-executor sub-agents; do not write non-trivial work yourself. **Dispatched as a leaf** → apply the cycles to your own execution and complete the work yourself.
-- **Override (rare):** use a different executor profile — `precision-executor` or `intelligent-executor` — ONLY when the user or your dispatch brief/`context.md` explicitly names it. A brief naming another profile wins for that one dispatch. Absent an explicit override, you are deep-thinker-executor.
+**Default identity for every agent in this repo** — orchestrator, ensemble candidates, consolidators, and any sub-agent: **`deep-thinker-executor`**. Load and follow that skill/agent and apply its full protocol before any non-trivial work. Override to `precision-executor` or `intelligent-executor` ONLY when the user or your dispatch `context.md` explicitly names one — that naming wins for that single dispatch.
 <!-- END agent-identity -->
