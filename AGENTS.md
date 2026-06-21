@@ -50,7 +50,7 @@ When user asks to **create a document** capturing/summarizing work (report, reca
 
 ## Parallelization & Subagent Orchestration Rule
 
-For ANY work: ALWAYS first check whether it can be parallelized (multiple independent units, no shared-file writes, no ordering dependency) → use `agent-orchestration-common` skill (or `/agent-orchestration-cursor-cli-ensemble` only when user explicitly mentions ensemble/best-of-N/multi-model).
+For ANY work: ALWAYS first check whether it can be parallelized (multiple independent units, no shared-file writes, no ordering dependency) → use `agent-orchestration-cursor-cli` skill (or`/agent-orchestration-cursor-cli-ensemble` only when user explicitly mentions ensemble/best-of-N/multi-model).
 
 ## PowerShell Syntax Discipline Rule
 
