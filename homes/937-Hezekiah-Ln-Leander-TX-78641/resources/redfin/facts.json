@@ -1,0 +1,502 @@
+{
+  "url": "https://www.redfin.com/TX/Leander/937-Hezekiah-Ln-78641/home/112970348",
+  "site": "redfin",
+  "capturedAt": "2026-06-23T03:37:24.274Z",
+  "address": "937 Hezekiah Ln, Leander, TX 78641",
+  "price": 700000,
+  "status": "sold",
+  "beds": 5,
+  "baths": 4,
+  "sqftFinished": 3552,
+  "sqftTotal": null,
+  "lot": null,
+  "yearBuilt": 2019,
+  "hoa": null,
+  "tax": null,
+  "estimate": 672074,
+  "estimateLow": 639000,
+  "estimateHigh": 773000,
+  "pricePerSqft": 189,
+  "priceHistory": [],
+  "ldjson": [
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "name": "Redfin",
+      "logo": "https://ssl.cdn-redfin.com/v633.4.0/images/logos/Redfin_Logo.png",
+      "url": "https://www.redfin.com"
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": [
+        "Product",
+        "RealEstateListing"
+      ],
+      "name": "937 Hezekiah Ln",
+      "description": "Introducing a remarkable 5 bedroom, 2-story home that embodies comfort and spaciousness. This 3,552 square foot residence showcases a perfect fusion of style and functionality. Step inside and be greeted by a study conveniently off the entrance, providing privacy and productive workspace. Open floor plan, tall ceilings and large windows flood the home with natural light, creating an inviting and airy atmosphere. The kitchen boast trend white cabinetry, sleek countertops, gas range, stainless steel appliances, butler's pantry with ample storage space for all your culinary needs. A convenient island for casual dining, transitions into a breakfast nook and family room, anchored by floor to ceiling tile fireplace. Adjacent to the kitchen, the dining area sets the stage for gatherings and special occasions. The master suite, thoughtfully located on the main level, provides a peaceful retreat with its soaking tub, dual sinks, separate shower and generous size walk-in closet. Additional attributes include a secondary bedroom and full bath perfect for family members or guests, and can be easily adapted to suit various needs. The spacious three-car garage ensures ample room for parking and storage. Upstairs, a generous game room awaits, providing endless possibilities for entertainment and recreation. Three secondary bedrooms are also located on this level, each bedroom is well-appointed with sufficient closet space. The outdoor area of this home features a landscaped yard, perfect for hosting outdoor activities. A covered patio provides an ideal space for dining and entertaining, the sprawling backyard offers ample room for gardening, play and a pool. Situated in a highly sought after neighborhood with excellent amenities. Amazing residential location with acclaimed schools, restaurants, retail and short commutes to the Austin Tech corridor. Impeccable design, prime location with abundant features, this property is a true gem that promises an exceptional living experience! ",
+      "url": "https://www.redfin.com/TX/Leander/937-Hezekiah-Ln-78641/home/112970348",
+      "lastReviewed": "2026-06-23T02:59:21.270Z",
+      "image": {
+        "@type": "ImageObject",
+        "url": "https://ssl.cdn-redfin.com/photo/92/bigphoto/616/3997616_2.jpg",
+        "width": 2172,
+        "height": 1447
+      },
+      "offers": {
+        "@type": "Offer",
+        "priceCurrency": "USD",
+        "price": 700000,
+        "url": "https://www.redfin.com/TX/Leander/937-Hezekiah-Ln-78641/home/112970348",
+        "availability": "https://schema.org/OutOfStock"
+      },
+      "mainEntity": {
+        "@type": "SingleFamilyResidence",
+        "name": "937 Hezekiah Ln",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "937 Hezekiah Ln",
+          "addressLocality": "Leander",
+          "addressRegion": "TX",
+          "postalCode": "78641",
+          "addressCountry": "US"
+        },
+        "geo": {
+          "@type": "GeoCoordinates",
+          "latitude": 30.6016562,
+          "longitude": -97.8226574
+        },
+        "hasMap": "https://www.google.com/maps/place/@30.6016562,-97.8226574",
+        "yearBuilt": 2020,
+        "accommodationCategory": "Single Family Residential",
+        "numberOfBedrooms": 5,
+        "numberOfBathroomsTotal": 4,
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": 3552,
+          "unitText": "FTK"
+        },
+        "amenityFeature": [
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Heating & cooling: Has A/C",
+            "value": true
+          },
+          {
+            "@type": "LocationFeatureSpecification",
+            "name": "Parking: 3 car garage",
+            "value": true
+          }
+        ],
+        "image": [
+          {
+            "@type": "ImageObject",
+            "url": "https://ssl.cdn-redfin.com/photo/92/bigphoto/616/3997616_2.jpg",
+            "width": 2172,
+            "height": 1447
+          }
+        ]
+      }
+    },
+    [
+      {
+        "@context": "http://schema.org",
+        "name": "1713 Candlelight Dr, Leander, TX 78641",
+        "url": "https://www.redfin.com/TX/Leander/1713-Candlelight-Dr-78641/home/32991233",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1713 Candlelight Dr",
+          "addressLocality": "Leander",
+          "addressRegion": "TX",
+          "postalCode": "78641",
+          "addressCountry": "US"
+        },
+        "numberOfRooms": 4,
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": 3085,
+          "unitCode": "FTK"
+        },
+        "@type": "SingleFamilyResidence"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "1713 Candlelight Dr, Leander, TX 78641",
+        "offers": {
+          "@type": "Offer",
+          "price": "389900",
+          "priceCurrency": "USD"
+        },
+        "url": "https://www.redfin.com/TX/Leander/1713-Candlelight-Dr-78641/home/32991233"
+      }
+    ],
+    [
+      {
+        "@context": "http://schema.org",
+        "name": "17412 W 1st St, Leander, TX 78641",
+        "url": "https://www.redfin.com/TX/Leander/17412-W-1st-St-78641/home/109934500",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "17412 W 1st St",
+          "addressLocality": "Leander",
+          "addressRegion": "TX",
+          "postalCode": "78641",
+          "addressCountry": "US"
+        },
+        "numberOfRooms": 4,
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": 3035,
+          "unitCode": "FTK"
+        },
+        "@type": "SingleFamilyResidence"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "17412 W 1st St, Leander, TX 78641",
+        "offers": {
+          "@type": "Offer",
+          "price": "767000",
+          "priceCurrency": "USD"
+        },
+        "url": "https://www.redfin.com/TX/Leander/17412-W-1st-St-78641/home/109934500"
+      }
+    ],
+    [
+      {
+        "@context": "http://schema.org",
+        "name": "3400 Venezia Vw, Leander, TX 78641",
+        "url": "https://www.redfin.com/TX/Leander/3400-Venezia-Vw-78641/home/109918315",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "3400 Venezia Vw",
+          "addressLocality": "Leander",
+          "addressRegion": "TX",
+          "postalCode": "78641",
+          "addressCountry": "US"
+        },
+        "numberOfRooms": 3,
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": 2161,
+          "unitCode": "FTK"
+        },
+        "@type": "SingleFamilyResidence"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "3400 Venezia Vw, Leander, TX 78641",
+        "offers": {
+          "@type": "Offer",
+          "price": "529000",
+          "priceCurrency": "USD"
+        },
+        "url": "https://www.redfin.com/TX/Leander/3400-Venezia-Vw-78641/home/109918315"
+      }
+    ],
+    [
+      {
+        "@context": "http://schema.org",
+        "name": "908 Honeysuckle Dr, Leander, TX 78641",
+        "url": "https://www.redfin.com/TX/Leander/908-Honeysuckle-Dr-78641/home/32916188",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "908 Honeysuckle Dr",
+          "addressLocality": "Leander",
+          "addressRegion": "TX",
+          "postalCode": "78641",
+          "addressCountry": "US"
+        },
+        "numberOfRooms": 3,
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": 1142,
+          "unitCode": "FTK"
+        },
+        "@type": "SingleFamilyResidence"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "908 Honeysuckle Dr, Leander, TX 78641",
+        "offers": {
+          "@type": "Offer",
+          "price": "225000",
+          "priceCurrency": "USD"
+        },
+        "url": "https://www.redfin.com/TX/Leander/908-Honeysuckle-Dr-78641/home/32916188"
+      }
+    ],
+    [
+      {
+        "@context": "http://schema.org",
+        "name": "610 Haleys Cv, Leander, TX 78641",
+        "url": "https://www.redfin.com/TX/Leander/610-Haleys-Cv-78641/home/32962236",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "610 Haleys Cv",
+          "addressLocality": "Leander",
+          "addressRegion": "TX",
+          "postalCode": "78641",
+          "addressCountry": "US"
+        },
+        "numberOfRooms": 4,
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": 3058,
+          "unitCode": "FTK"
+        },
+        "@type": "SingleFamilyResidence"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "610 Haleys Cv, Leander, TX 78641",
+        "offers": {
+          "@type": "Offer",
+          "price": "474999",
+          "priceCurrency": "USD"
+        },
+        "url": "https://www.redfin.com/TX/Leander/610-Haleys-Cv-78641/home/32962236"
+      }
+    ],
+    [
+      {
+        "@context": "http://schema.org",
+        "name": "610 Riverway Ln, Leander, TX 78641",
+        "url": "https://www.redfin.com/TX/Leander/610-Riverway-Ln-78641/home/32939086",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "610 Riverway Ln",
+          "addressLocality": "Leander",
+          "addressRegion": "TX",
+          "postalCode": "78641",
+          "addressCountry": "US"
+        },
+        "numberOfRooms": 3,
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": 1716,
+          "unitCode": "FTK"
+        },
+        "@type": "SingleFamilyResidence"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "610 Riverway Ln, Leander, TX 78641",
+        "offers": {
+          "@type": "Offer",
+          "price": "325000",
+          "priceCurrency": "USD"
+        },
+        "url": "https://www.redfin.com/TX/Leander/610-Riverway-Ln-78641/home/32939086"
+      }
+    ],
+    [
+      {
+        "@context": "http://schema.org",
+        "name": "1909 Holly Hill Dr, Leander, TX 78641",
+        "url": "https://www.redfin.com/TX/Leander/1909-Holly-Hill-Dr-78641/home/32866540",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1909 Holly Hill Dr",
+          "addressLocality": "Leander",
+          "addressRegion": "TX",
+          "postalCode": "78641",
+          "addressCountry": "US"
+        },
+        "numberOfRooms": 4,
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": 2580,
+          "unitCode": "FTK"
+        },
+        "@type": "SingleFamilyResidence"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "1909 Holly Hill Dr, Leander, TX 78641",
+        "offers": {
+          "@type": "Offer",
+          "price": "479000",
+          "priceCurrency": "USD"
+        },
+        "url": "https://www.redfin.com/TX/Leander/1909-Holly-Hill-Dr-78641/home/32866540"
+      }
+    ],
+    [
+      {
+        "@context": "http://schema.org",
+        "name": "24502 Long Hollow Trl, Leander, TX 78641",
+        "url": "https://www.redfin.com/TX/Leander/24502-Long-Hollow-Trl-78641/home/31859868",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "24502 Long Hollow Trl",
+          "addressLocality": "Leander",
+          "addressRegion": "TX",
+          "postalCode": "78641",
+          "addressCountry": "US"
+        },
+        "numberOfRooms": 4,
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": 2650,
+          "unitCode": "FTK"
+        },
+        "@type": "SingleFamilyResidence"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "24502 Long Hollow Trl, Leander, TX 78641",
+        "offers": {
+          "@type": "Offer",
+          "price": "550000",
+          "priceCurrency": "USD"
+        },
+        "url": "https://www.redfin.com/TX/Leander/24502-Long-Hollow-Trl-78641/home/31859868"
+      }
+    ],
+    [
+      {
+        "@context": "http://schema.org",
+        "name": "1612 Devine Lake Bnd, Leander, TX 78641",
+        "url": "https://www.redfin.com/TX/Leander/1612-Devine-Lake-Bnd-78641/home/173983025",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "1612 Devine Lake Bnd",
+          "addressLocality": "Leander",
+          "addressRegion": "TX",
+          "postalCode": "78641",
+          "addressCountry": "US"
+        },
+        "numberOfRooms": 4,
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": 2356,
+          "unitCode": "FTK"
+        },
+        "@type": "SingleFamilyResidence"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "1612 Devine Lake Bnd, Leander, TX 78641",
+        "offers": {
+          "@type": "Offer",
+          "price": "459900",
+          "priceCurrency": "USD"
+        },
+        "url": "https://www.redfin.com/TX/Leander/1612-Devine-Lake-Bnd-78641/home/173983025"
+      }
+    ],
+    [
+      {
+        "@context": "http://schema.org",
+        "name": "2240 Ringstaff Rd, Leander, TX 78641",
+        "url": "https://www.redfin.com/TX/Leander/2240-Ringstaff-Rd-78641/home/144737179",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "2240 Ringstaff Rd",
+          "addressLocality": "Leander",
+          "addressRegion": "TX",
+          "postalCode": "78641",
+          "addressCountry": "US"
+        },
+        "numberOfRooms": 3,
+        "floorSize": {
+          "@type": "QuantitativeValue",
+          "value": 1662,
+          "unitCode": "FTK"
+        },
+        "@type": "SingleFamilyResidence"
+      },
+      {
+        "@context": "http://schema.org",
+        "@type": "Product",
+        "name": "2240 Ringstaff Rd, Leander, TX 78641",
+        "offers": {
+          "@type": "Offer",
+          "price": "365000",
+          "priceCurrency": "USD"
+        },
+        "url": "https://www.redfin.com/TX/Leander/2240-Ringstaff-Rd-78641/home/144737179"
+      }
+    ],
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Redfin",
+          "item": "https://www.redfin.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Texas",
+          "item": "https://www.redfin.com/state/Texas"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Leander",
+          "item": "https://www.redfin.com/city/30803/TX/Leander"
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "name": "937 Hezekiah Ln, Leander, TX 78641"
+        }
+      ]
+    }
+  ],
+  "photoUrls": [
+    "https://ssl.cdn-redfin.com/photo/92/bigphoto/616/3997616_2.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/709/genBcs.5540709_W.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/955/genBcs.3249955_12.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/392/genBcs.8523392_D.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/888/genBcs.3116888_F.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/187/genBcs.1253187_5.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/502/genBcs.5828502_0.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/502/genBcs.5828502_1_0.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/502/genBcs.5828502_26_0.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/643/genBcs.6189643_0.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/643/genBcs.6189643_1_0.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/643/genBcs.6189643_39_0.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/777/genBcs.5577777_0.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/777/genBcs.5577777_1_0.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/777/genBcs.5577777_39_0.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/565/genBcs.3078565_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/565/genBcs.3078565_1_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/565/genBcs.3078565_16_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/518/genBcs.3362518_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/518/genBcs.3362518_1_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/518/genBcs.3362518_32_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/739/genBcs.9832739_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/739/genBcs.9832739_1_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/739/genBcs.9832739_30_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/546/genBcs.1583546_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/546/genBcs.1583546_1_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/546/genBcs.1583546_39_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/295/genBcs.6438295_3.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/295/genBcs.6438295_1_3.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/295/genBcs.6438295_34_3.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/963/genBcs.9848963_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/963/genBcs.9848963_1_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/963/genBcs.9848963_39_1.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/856/genBcs.2589856_5.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/856/genBcs.2589856_1_5.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/bcsphoto/856/genBcs.2589856_23_5.jpg",
+    "https://ssl.cdn-redfin.com/photo/92/mbpaddedwide/843/genMid.1604843_4.jpg"
+  ],
+  "notes": [
+    "photoUrls are best-effort; some galleries lazy-load ΓÇö scroll the gallery and re-run to capture more."
+  ]
+}

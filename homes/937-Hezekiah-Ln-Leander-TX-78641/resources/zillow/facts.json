@@ -1,0 +1,2115 @@
+{
+  "url": "https://www.zillow.com/homedetails/937-Hezekiah-Ln-Leander-TX-78641/243340306_zpid/",
+  "site": "zillow",
+  "capturedAt": "2026-06-23T03:41:05.616Z",
+  "address": "937 Hezekiah Ln,┬áLeander, TX 78641",
+  "price": 699400,
+  "status": "sold",
+  "beds": 5,
+  "baths": 4,
+  "sqftFinished": 3432,
+  "sqftTotal": null,
+  "lot": null,
+  "yearBuilt": 2020,
+  "hoa": null,
+  "tax": null,
+  "estimate": 699400,
+  "estimateLow": 664000,
+  "estimateHigh": 734000,
+  "pricePerSqft": 204,
+  "priceHistory": [],
+  "ldjson": [
+    {
+      "@context": "https://schema.org",
+      "@type": [
+        "RealEstateListing",
+        "Product"
+      ],
+      "@id": "https://www.zillow.com/homedetails/937-Hezekiah-Ln-Leander-TX-78641/243340306_zpid/",
+      "name": "937 Hezekiah Ln, Leander, TX 78641",
+      "url": "https://www.zillow.com/homedetails/937-Hezekiah-Ln-Leander-TX-78641/243340306_zpid/",
+      "inLanguage": "en-US",
+      "offers": {
+        "@context": "https://schema.org",
+        "@type": "Offer",
+        "itemOffered": {
+          "@context": "https://schema.org",
+          "@type": "SingleFamilyResidence",
+          "name": "937 Hezekiah Ln, Leander, TX 78641",
+          "floorSize": {
+            "@context": "https://schema.org",
+            "@type": "QuantitativeValue",
+            "value": 3432
+          },
+          "numberOfBedrooms": 5,
+          "address": {
+            "@context": "https://schema.org",
+            "@type": "PostalAddress",
+            "streetAddress": "937 Hezekiah Ln",
+            "addressLocality": "Leander",
+            "addressRegion": "TX",
+            "postalCode": "78641"
+          },
+          "geo": {
+            "@context": "https://schema.org",
+            "@type": "GeoCoordinates",
+            "latitude": 30.601648,
+            "longitude": -97.82264
+          },
+          "url": "https://www.zillow.com/homedetails/937-Hezekiah-Ln-Leander-TX-78641/243340306_zpid/"
+        },
+        "price": 0,
+        "priceCurrency": "USD",
+        "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+        "availability": "https://schema.org/SoldOut"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@context": "http://schema.org",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "@context": "http://schema.org",
+          "position": 1,
+          "item": {
+            "@id": "/tx/",
+            "name": "Texas"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "@context": "http://schema.org",
+          "position": 2,
+          "item": {
+            "@id": "/williamson-county-tx/",
+            "name": "Williamson County"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "@context": "http://schema.org",
+          "position": 3,
+          "item": {
+            "@id": "/leander-tx/",
+            "name": "Leander"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "@context": "http://schema.org",
+          "position": 4,
+          "item": {
+            "@id": "/leander-tx-78641/",
+            "name": "78641"
+          }
+        }
+      ]
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "Place",
+      "@id": "https://www.zillow.com/leander-tx/sold/#place",
+      "name": "Leander TX",
+      "url": "https://www.zillow.com/leander-tx/sold/",
+      "description": "Browse data on the 849 recent real estate transactions in Leander TX. Great for discovering comps, sales history, photos, and more."
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "@id": "https://www.zillow.com/leander-tx/sold/",
+      "name": "Leander TX",
+      "description": "Browse data on the 849 recent real estate transactions in Leander TX. Great for discovering comps, sales history, photos, and more.",
+      "url": "https://www.zillow.com/leander-tx/sold/",
+      "itemListElement": [
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/105-Oak-Plaza-Dr-Georgetown-TX-78628/88027413_zpid/",
+            "name": "105 Oak Plaza Dr, Georgetown, TX 78628",
+            "url": "https://www.zillow.com/homedetails/105-Oak-Plaza-Dr-Georgetown-TX-78628/88027413_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "105 Oak Plaza Dr, Georgetown, TX 78628",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 2547
+                },
+                "numberOfBedrooms": 3,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "105 Oak Plaza Dr",
+                  "addressLocality": "Georgetown",
+                  "addressRegion": "TX",
+                  "postalCode": "78628"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.63215,
+                  "longitude": -97.80453
+                },
+                "url": "https://www.zillow.com/homedetails/105-Oak-Plaza-Dr-Georgetown-TX-78628/88027413_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/600-S-Bagdad-Rd-Leander-TX-78641/29534205_zpid/",
+            "name": "600 S Bagdad Rd, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/600-S-Bagdad-Rd-Leander-TX-78641/29534205_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "600 S Bagdad Rd, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 3324
+                },
+                "numberOfBedrooms": 3,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "600 S Bagdad Rd",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.567175,
+                  "longitude": -97.86581
+                },
+                "url": "https://www.zillow.com/homedetails/600-S-Bagdad-Rd-Leander-TX-78641/29534205_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/1104-Canadian-Cv-Leander-TX-78641/67052163_zpid/",
+            "name": "1104 Canadian Cv, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/1104-Canadian-Cv-Leander-TX-78641/67052163_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "1104 Canadian Cv, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 2398
+                },
+                "numberOfBedrooms": 3,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "1104 Canadian Cv",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.564486,
+                  "longitude": -97.853004
+                },
+                "url": "https://www.zillow.com/homedetails/1104-Canadian-Cv-Leander-TX-78641/67052163_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/805-Gipper-Ln-Leander-TX-78641/250930108_zpid/",
+            "name": "805 Gipper Ln, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/805-Gipper-Ln-Leander-TX-78641/250930108_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "805 Gipper Ln, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 4124
+                },
+                "numberOfBedrooms": 4,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "805 Gipper Ln",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.60562,
+                  "longitude": -97.80193
+                },
+                "url": "https://www.zillow.com/homedetails/805-Gipper-Ln-Leander-TX-78641/250930108_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 5,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/904-Purmela-St-Leander-TX-78641/458197054_zpid/",
+            "name": "904 Purmela St, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/904-Purmela-St-Leander-TX-78641/458197054_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "904 Purmela St, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 3365
+                },
+                "numberOfBedrooms": 5,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "904 Purmela St",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.586725,
+                  "longitude": -97.786125
+                },
+                "url": "https://www.zillow.com/homedetails/904-Purmela-St-Leander-TX-78641/458197054_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 6,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/705-Mallow-Rd-Leander-TX-78641/302815941_zpid/",
+            "name": "705 Mallow Rd, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/705-Mallow-Rd-Leander-TX-78641/302815941_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "705 Mallow Rd, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 1961
+                },
+                "numberOfBedrooms": 3,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "705 Mallow Rd",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.600008,
+                  "longitude": -97.84727
+                },
+                "url": "https://www.zillow.com/homedetails/705-Mallow-Rd-Leander-TX-78641/302815941_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 7,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/5828-Sean-Paul-Ln-Georgetown-TX-78628/2056143110_zpid/",
+            "name": "5828 Sean Paul Ln, Georgetown, TX 78628",
+            "url": "https://www.zillow.com/homedetails/5828-Sean-Paul-Ln-Georgetown-TX-78628/2056143110_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "5828 Sean Paul Ln, Georgetown, TX 78628",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 2774
+                },
+                "numberOfBedrooms": 4,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "5828 Sean Paul Ln",
+                  "addressLocality": "Georgetown",
+                  "addressRegion": "TX",
+                  "postalCode": "78628"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.594524,
+                  "longitude": -97.77922
+                },
+                "url": "https://www.zillow.com/homedetails/5828-Sean-Paul-Ln-Georgetown-TX-78628/2056143110_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 8,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/804-Water-Hyacinth-Loop-Leander-TX-78641/120902497_zpid/",
+            "name": "804 Water Hyacinth Loop, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/804-Water-Hyacinth-Loop-Leander-TX-78641/120902497_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "804 Water Hyacinth Loop, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 2453
+                },
+                "numberOfBedrooms": 3,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "804 Water Hyacinth Loop",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.567211,
+                  "longitude": -97.83075
+                },
+                "url": "https://www.zillow.com/homedetails/804-Water-Hyacinth-Loop-Leander-TX-78641/120902497_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 9,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/552-Panzano-Dr-Georgetown-TX-78628/331487719_zpid/",
+            "name": "552 Panzano Dr, Georgetown, TX 78628",
+            "url": "https://www.zillow.com/homedetails/552-Panzano-Dr-Georgetown-TX-78628/331487719_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "552 Panzano Dr, Georgetown, TX 78628",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 2138
+                },
+                "numberOfBedrooms": 4,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "552 Panzano Dr",
+                  "addressLocality": "Georgetown",
+                  "addressRegion": "TX",
+                  "postalCode": "78628"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.619867,
+                  "longitude": -97.809166
+                },
+                "url": "https://www.zillow.com/homedetails/552-Panzano-Dr-Georgetown-TX-78628/331487719_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 10,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/827-Topaz-Ln-Leander-TX-78641/29569541_zpid/",
+            "name": "827 Topaz Ln, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/827-Topaz-Ln-Leander-TX-78641/29569541_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "827 Topaz Ln, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 1016
+                },
+                "numberOfBedrooms": 2,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "827 Topaz Ln",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.564375,
+                  "longitude": -97.86077
+                },
+                "url": "https://www.zillow.com/homedetails/827-Topaz-Ln-Leander-TX-78641/29569541_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 11,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/149-Feather-Grass-Ave-Leander-TX-78641/302816959_zpid/",
+            "name": "149 Feather Grass Ave, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/149-Feather-Grass-Ave-Leander-TX-78641/302816959_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "149 Feather Grass Ave, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 1730
+                },
+                "numberOfBedrooms": 4,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "149 Feather Grass Ave",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.632357,
+                  "longitude": -97.84943
+                },
+                "url": "https://www.zillow.com/homedetails/149-Feather-Grass-Ave-Leander-TX-78641/302816959_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 12,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/605-W-South-St-32-Leander-TX-78641/337167564_zpid/",
+            "name": "605 W South St #32, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/605-W-South-St-32-Leander-TX-78641/337167564_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "Apartment",
+                "name": "605 W South St #32, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 3180
+                },
+                "numberOfBedrooms": 6,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "605 W South St #32",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.575153,
+                  "longitude": -97.86492
+                },
+                "url": "https://www.zillow.com/homedetails/605-W-South-St-32-Leander-TX-78641/337167564_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 13,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/605-W-South-St-321-Leander-TX-78641/2061771019_zpid/",
+            "name": "605 W South St #321, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/605-W-South-St-321-Leander-TX-78641/2061771019_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "605 W South St #321, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 1540
+                },
+                "numberOfBedrooms": 3,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "605 W South St #321",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.575565,
+                  "longitude": -97.86391
+                },
+                "url": "https://www.zillow.com/homedetails/605-W-South-St-321-Leander-TX-78641/2061771019_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 14,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/605-W-South-St-322-Leander-TX-78641/2061771027_zpid/",
+            "name": "605 W South St #322, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/605-W-South-St-322-Leander-TX-78641/2061771027_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "605 W South St #322, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 1575
+                },
+                "numberOfBedrooms": 3,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "605 W South St #322",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.57529,
+                  "longitude": -97.864075
+                },
+                "url": "https://www.zillow.com/homedetails/605-W-South-St-322-Leander-TX-78641/2061771027_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 15,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/2504-Indian-Clover-Trl-Leander-TX-78641/2060479513_zpid/",
+            "name": "2504 Indian Clover Trl, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/2504-Indian-Clover-Trl-Leander-TX-78641/2060479513_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "2504 Indian Clover Trl, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 2110
+                },
+                "numberOfBedrooms": 4,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "2504 Indian Clover Trl",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.623426,
+                  "longitude": -97.827484
+                },
+                "url": "https://www.zillow.com/homedetails/2504-Indian-Clover-Trl-Leander-TX-78641/2060479513_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 16,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/902-Ridgemont-Cir-Leander-TX-78641/60338171_zpid/",
+            "name": "902 Ridgemont Cir, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/902-Ridgemont-Cir-Leander-TX-78641/60338171_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "902 Ridgemont Cir, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 1644
+                },
+                "numberOfBedrooms": 3,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "902 Ridgemont Cir",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.563004,
+                  "longitude": -97.832596
+                },
+                "url": "https://www.zillow.com/homedetails/902-Ridgemont-Cir-Leander-TX-78641/60338171_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 17,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/2040-Elaina-Loop-Leander-TX-78641/119897053_zpid/",
+            "name": "2040 Elaina Loop, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/2040-Elaina-Loop-Leander-TX-78641/119897053_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "2040 Elaina Loop, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 1975
+                },
+                "numberOfBedrooms": 4,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "2040 Elaina Loop",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.563894,
+                  "longitude": -97.81067
+                },
+                "url": "https://www.zillow.com/homedetails/2040-Elaina-Loop-Leander-TX-78641/119897053_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 18,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/217-Michaelis-Dr-Leander-TX-78641/250930439_zpid/",
+            "name": "217 Michaelis Dr, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/217-Michaelis-Dr-Leander-TX-78641/250930439_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "217 Michaelis Dr, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 1537
+                },
+                "numberOfBedrooms": 3,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "217 Michaelis Dr",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.581303,
+                  "longitude": -97.85093
+                },
+                "url": "https://www.zillow.com/homedetails/217-Michaelis-Dr-Leander-TX-78641/250930439_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 19,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/183-Concho-Creek-Loop-Leander-TX-78641/302818336_zpid/",
+            "name": "183 Concho Creek Loop, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/183-Concho-Creek-Loop-Leander-TX-78641/302818336_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "183 Concho Creek Loop, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 3082
+                },
+                "numberOfBedrooms": 4,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "183 Concho Creek Loop",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.627352,
+                  "longitude": -97.84826
+                },
+                "url": "https://www.zillow.com/homedetails/183-Concho-Creek-Loop-Leander-TX-78641/302818336_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 20,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/1808-Weavers-Bnd-Georgetown-TX-78628/453438330_zpid/",
+            "name": "1808 Weavers Bnd, Georgetown, TX 78628",
+            "url": "https://www.zillow.com/homedetails/1808-Weavers-Bnd-Georgetown-TX-78628/453438330_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "1808 Weavers Bnd, Georgetown, TX 78628",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 2842
+                },
+                "numberOfBedrooms": 4,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "1808 Weavers Bnd",
+                  "addressLocality": "Georgetown",
+                  "addressRegion": "TX",
+                  "postalCode": "78628"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.623043,
+                  "longitude": -97.79332
+                },
+                "url": "https://www.zillow.com/homedetails/1808-Weavers-Bnd-Georgetown-TX-78628/453438330_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 21,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/1429-Indigo-Bush-Ln-Leander-TX-78641/459100481_zpid/",
+            "name": "1429 Indigo Bush Ln, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/1429-Indigo-Bush-Ln-Leander-TX-78641/459100481_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "1429 Indigo Bush Ln, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 3700
+                },
+                "numberOfBedrooms": 5,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "1429 Indigo Bush Ln",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.576254,
+                  "longitude": -97.79041
+                },
+                "url": "https://www.zillow.com/homedetails/1429-Indigo-Bush-Ln-Leander-TX-78641/459100481_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 22,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/217-Yoakum-St-Leander-TX-78641/331486480_zpid/",
+            "name": "217 Yoakum St, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/217-Yoakum-St-Leander-TX-78641/331486480_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "217 Yoakum St, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 1368
+                },
+                "numberOfBedrooms": 3,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "217 Yoakum St",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.633856,
+                  "longitude": -97.848015
+                },
+                "url": "https://www.zillow.com/homedetails/217-Yoakum-St-Leander-TX-78641/331486480_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 23,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/2341-Airport-Dr-Leander-TX-78641/337166443_zpid/",
+            "name": "2341 Airport Dr, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/2341-Airport-Dr-Leander-TX-78641/337166443_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "2341 Airport Dr, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 2926
+                },
+                "numberOfBedrooms": 4,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "2341 Airport Dr",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.597282,
+                  "longitude": -97.81958
+                },
+                "url": "https://www.zillow.com/homedetails/2341-Airport-Dr-Leander-TX-78641/337166443_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 24,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/132-Dunlin-Ln-Leander-TX-78641/302818338_zpid/",
+            "name": "132 Dunlin Ln, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/132-Dunlin-Ln-Leander-TX-78641/302818338_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "132 Dunlin Ln, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 1561
+                },
+                "numberOfBedrooms": 3,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "132 Dunlin Ln",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.632872,
+                  "longitude": -97.849205
+                },
+                "url": "https://www.zillow.com/homedetails/132-Dunlin-Ln-Leander-TX-78641/302818338_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 25,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/409-Red-Matador-Ln-Leander-TX-78641/302817563_zpid/",
+            "name": "409 Red Matador Ln, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/409-Red-Matador-Ln-Leander-TX-78641/302817563_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "409 Red Matador Ln, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 1698
+                },
+                "numberOfBedrooms": 4,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "409 Red Matador Ln",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.629837,
+                  "longitude": -97.84862
+                },
+                "url": "https://www.zillow.com/homedetails/409-Red-Matador-Ln-Leander-TX-78641/302817563_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 26,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/837-Bliss-Ln-Leander-TX-78641/243337522_zpid/",
+            "name": "837 Bliss Ln, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/837-Bliss-Ln-Leander-TX-78641/243337522_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "837 Bliss Ln, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 2921
+                },
+                "numberOfBedrooms": 3,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "837 Bliss Ln",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.571945,
+                  "longitude": -97.83522
+                },
+                "url": "https://www.zillow.com/homedetails/837-Bliss-Ln-Leander-TX-78641/243337522_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 27,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/1900-Rutherford-Dr-Leander-TX-78641/62570717_zpid/",
+            "name": "1900 Rutherford Dr, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/1900-Rutherford-Dr-Leander-TX-78641/62570717_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "1900 Rutherford Dr, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 1815
+                },
+                "numberOfBedrooms": 3,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "1900 Rutherford Dr",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.560398,
+                  "longitude": -97.82402
+                },
+                "url": "https://www.zillow.com/homedetails/1900-Rutherford-Dr-Leander-TX-78641/62570717_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 28,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/837-Eagles-Way-Leander-TX-78641/29569585_zpid/",
+            "name": "837 Eagles Way, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/837-Eagles-Way-Leander-TX-78641/29569585_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "837 Eagles Way, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 1124
+                },
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "837 Eagles Way",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.56586,
+                  "longitude": -97.86189
+                },
+                "url": "https://www.zillow.com/homedetails/837-Eagles-Way-Leander-TX-78641/29569585_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 29,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/1320-Eagle-Ray-St-Leander-TX-78641/250926330_zpid/",
+            "name": "1320 Eagle Ray St, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/1320-Eagle-Ray-St-Leander-TX-78641/250926330_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "1320 Eagle Ray St, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 1547
+                },
+                "numberOfBedrooms": 3,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "1320 Eagle Ray St",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.594732,
+                  "longitude": -97.86236
+                },
+                "url": "https://www.zillow.com/homedetails/1320-Eagle-Ray-St-Leander-TX-78641/250926330_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 30,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/533-Flag-Ln-Leander-TX-78641/250825652_zpid/",
+            "name": "533 Flag Ln, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/533-Flag-Ln-Leander-TX-78641/250825652_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "533 Flag Ln, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 2687
+                },
+                "numberOfBedrooms": 4,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "533 Flag Ln",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.58501,
+                  "longitude": -97.86413
+                },
+                "url": "https://www.zillow.com/homedetails/533-Flag-Ln-Leander-TX-78641/250825652_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 31,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/3679-Prosper-Rd-Leander-TX-78641/448405232_zpid/",
+            "name": "3679 Prosper Rd, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/3679-Prosper-Rd-Leander-TX-78641/448405232_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "3679 Prosper Rd, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 2327
+                },
+                "numberOfBedrooms": 4,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "3679 Prosper Rd",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.587448,
+                  "longitude": -97.79262
+                },
+                "url": "https://www.zillow.com/homedetails/3679-Prosper-Rd-Leander-TX-78641/448405232_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 32,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/341-Foresail-Rd-Leander-TX-78641/439144996_zpid/",
+            "name": "341 Foresail Rd, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/341-Foresail-Rd-Leander-TX-78641/439144996_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "341 Foresail Rd, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 1801
+                },
+                "numberOfBedrooms": 3,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "341 Foresail Rd",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.57286,
+                  "longitude": -97.84534
+                },
+                "url": "https://www.zillow.com/homedetails/341-Foresail-Rd-Leander-TX-78641/439144996_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 33,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/212-Panzano-Dr-Georgetown-TX-78628/250927803_zpid/",
+            "name": "212 Panzano Dr, Georgetown, TX 78628",
+            "url": "https://www.zillow.com/homedetails/212-Panzano-Dr-Georgetown-TX-78628/250927803_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "212 Panzano Dr, Georgetown, TX 78628",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 2434
+                },
+                "numberOfBedrooms": 3,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "212 Panzano Dr",
+                  "addressLocality": "Georgetown",
+                  "addressRegion": "TX",
+                  "postalCode": "78628"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.619621,
+                  "longitude": -97.81453
+                },
+                "url": "https://www.zillow.com/homedetails/212-Panzano-Dr-Georgetown-TX-78628/250927803_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 34,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/707-Thrush-Dr-Leander-TX-78641/29585282_zpid/",
+            "name": "707 Thrush Dr, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/707-Thrush-Dr-Leander-TX-78641/29585282_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "707 Thrush Dr, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 2118
+                },
+                "numberOfBedrooms": 3,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "707 Thrush Dr",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.567858,
+                  "longitude": -97.83811
+                },
+                "url": "https://www.zillow.com/homedetails/707-Thrush-Dr-Leander-TX-78641/29585282_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 35,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/2041-Elaina-Loop-Leander-TX-78641/120770219_zpid/",
+            "name": "2041 Elaina Loop, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/2041-Elaina-Loop-Leander-TX-78641/120770219_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "2041 Elaina Loop, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 2196
+                },
+                "numberOfBedrooms": 4,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "2041 Elaina Loop",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.564335,
+                  "longitude": -97.81085
+                },
+                "url": "https://www.zillow.com/homedetails/2041-Elaina-Loop-Leander-TX-78641/120770219_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 36,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/4004-Waxahachie-Rd-Leander-TX-78641/457955571_zpid/",
+            "name": "4004 Waxahachie Rd, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/4004-Waxahachie-Rd-Leander-TX-78641/457955571_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "4004 Waxahachie Rd, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 4688
+                },
+                "numberOfBedrooms": 5,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "4004 Waxahachie Rd",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.58754,
+                  "longitude": -97.78705
+                },
+                "url": "https://www.zillow.com/homedetails/4004-Waxahachie-Rd-Leander-TX-78641/457955571_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 37,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/1912-Gold-Dust-Trl-Leander-TX-78641/459422603_zpid/",
+            "name": "1912 Gold Dust Trl, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/1912-Gold-Dust-Trl-Leander-TX-78641/459422603_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "1912 Gold Dust Trl, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 2530
+                },
+                "numberOfBedrooms": 4,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "1912 Gold Dust Trl",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.612448,
+                  "longitude": -97.83407
+                },
+                "url": "https://www.zillow.com/homedetails/1912-Gold-Dust-Trl-Leander-TX-78641/459422603_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 38,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/308-Oak-Plaza-Cv-Georgetown-TX-78628/70976438_zpid/",
+            "name": "308 Oak Plaza Cv, Georgetown, TX 78628",
+            "url": "https://www.zillow.com/homedetails/308-Oak-Plaza-Cv-Georgetown-TX-78628/70976438_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "308 Oak Plaza Cv, Georgetown, TX 78628",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 2895
+                },
+                "numberOfBedrooms": 3,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "308 Oak Plaza Cv",
+                  "addressLocality": "Georgetown",
+                  "addressRegion": "TX",
+                  "postalCode": "78628"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.630241,
+                  "longitude": -97.80561
+                },
+                "url": "https://www.zillow.com/homedetails/308-Oak-Plaza-Cv-Georgetown-TX-78628/70976438_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 39,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/348-Panzano-Dr-Georgetown-TX-78628/250928020_zpid/",
+            "name": "348 Panzano Dr, Georgetown, TX 78628",
+            "url": "https://www.zillow.com/homedetails/348-Panzano-Dr-Georgetown-TX-78628/250928020_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "348 Panzano Dr, Georgetown, TX 78628",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 2610
+                },
+                "numberOfBedrooms": 4,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "348 Panzano Dr",
+                  "addressLocality": "Georgetown",
+                  "addressRegion": "TX",
+                  "postalCode": "78628"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.618753,
+                  "longitude": -97.81249
+                },
+                "url": "https://www.zillow.com/homedetails/348-Panzano-Dr-Georgetown-TX-78628/250928020_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        },
+        {
+          "@context": "https://schema.org",
+          "@type": "ListItem",
+          "position": 40,
+          "item": {
+            "@context": "https://schema.org",
+            "@type": "RealEstateListing",
+            "@id": "https://www.zillow.com/homedetails/2420-Costera-St-Leander-TX-78641/331491030_zpid/",
+            "name": "2420 Costera St, Leander, TX 78641",
+            "url": "https://www.zillow.com/homedetails/2420-Costera-St-Leander-TX-78641/331491030_zpid/",
+            "inLanguage": "en-US",
+            "offers": {
+              "@context": "https://schema.org",
+              "@type": "Offer",
+              "itemOffered": {
+                "@context": "https://schema.org",
+                "@type": "SingleFamilyResidence",
+                "name": "2420 Costera St, Leander, TX 78641",
+                "floorSize": {
+                  "@context": "https://schema.org",
+                  "@type": "QuantitativeValue",
+                  "value": 2960
+                },
+                "numberOfBedrooms": 4,
+                "address": {
+                  "@context": "https://schema.org",
+                  "@type": "PostalAddress",
+                  "streetAddress": "2420 Costera St",
+                  "addressLocality": "Leander",
+                  "addressRegion": "TX",
+                  "postalCode": "78641"
+                },
+                "geo": {
+                  "@context": "https://schema.org",
+                  "@type": "GeoCoordinates",
+                  "latitude": 30.602013,
+                  "longitude": -97.82059
+                },
+                "url": "https://www.zillow.com/homedetails/2420-Costera-St-Leander-TX-78641/331491030_zpid/"
+              },
+              "priceCurrency": "USD",
+              "businessFunction": "http://purl.org/goodrelations/v1#Sell",
+              "availability": "https://schema.org/SoldOut"
+            }
+          }
+        }
+      ],
+      "numberOfItems": 40
+    },
+    {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "https://www.zillow.com/homes/sold/",
+            "name": "Sold"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "https://www.zillow.com/tx/sold/",
+            "name": "Texas"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@id": "https://www.zillow.com/travis-county-tx/sold/",
+            "name": "Travis County"
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "name": "Leander"
+          }
+        }
+      ]
+    }
+  ],
+  "photoUrls": [
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-cc_ft_960.jpg",
+    "https://photos.zillowstatic.com/fp/6d1a9b7c67b8664d9163d3b625ed82c6-cc_ft_576.jpg",
+    "https://photos.zillowstatic.com/fp/ab118cc299296b3e57efba0052f73584-h_l.jpg",
+    "https://photos.zillowstatic.com/fp/f4c3d3fa7ef63c8172b3e479aab6adc9-h_l.jpg",
+    "https://photos.zillowstatic.com/fp/3e58fe5f4a8bb176ec5b879db88d1942-h_l.jpg",
+    "https://photos.zillowstatic.com/fp/8a02a267d0ee1f20c6f4fe2e873a2df6-p_c.jpg",
+    "https://photos.zillowstatic.com/fp/fd006bcb4ae876355ed1c5f4e620cef3-p_c.jpg",
+    "https://photos.zillowstatic.com/fp/124e5cbb409d820f7148a95a2fc6ca49-p_e.webp",
+    "https://photos.zillowstatic.com/fp/84745211dae6142cc71820518fd18d1c-p_e.webp",
+    "https://photos.zillowstatic.com/fp/bda682c644fb331226517538567e39c6-p_e.webp",
+    "https://photos.zillowstatic.com/fp/d8df623f5b1067779c437397cfcf6543-zillow_web_48_23.jpg",
+    "https://photos.zillowstatic.com/fp/623e029efd7e8aaab48477e8c8cabc29-p_e.webp",
+    "https://photos.zillowstatic.com/fp/cde310d993df13fe21bef37334483986-p_e.webp",
+    "https://photos.zillowstatic.com/fp/844b108378d91282c1ceca0a5cf67f81-p_e.webp",
+    "https://photos.zillowstatic.com/fp/0c7de1ad26659bd60a5d58e5edeaab5d-p_e.webp",
+    "https://photos.zillowstatic.com/fp/1904d0b4a5fdcf6b8a60c6c9eba3fb9a-p_e.webp",
+    "https://photos.zillowstatic.com/fp/9edd3416fc6e8edae7b8d075a52b234e-p_e.webp",
+    "https://photos.zillowstatic.com/fp/0148492a5f7c3452ead1e1d55511449c-p_e.webp",
+    "https://photos.zillowstatic.com/fp/84f37aa9ae2dcdfefd6f87a8cbf8d6f7-p_e.webp",
+    "https://photos.zillowstatic.com/fp/c4f90798751bf78aff5e9ee5b7fba34f-p_e.webp",
+    "https://photos.zillowstatic.com/fp/b31274a6ac55cf1d5d39ae5e97bee670-p_e.webp",
+    "https://photos.zillowstatic.com/fp/dd8dddb5a2f8b8a2d7399b20df7e4cff-p_e.webp",
+    "https://photos.zillowstatic.com/fp/5218543de5eafdd2d4c6832cd3d1f708-p_e.webp",
+    "https://photos.zillowstatic.com/fp/dd54a12466f409d2b1c9350e66411688-p_e.webp",
+    "https://photos.zillowstatic.com/fp/dc22efac2256480850539d0d261b3312-p_e.webp",
+    "https://photos.zillowstatic.com/fp/a2a51a582baf18d6fab766d39675e820-p_e.webp",
+    "https://photos.zillowstatic.com/fp/071948863445fbc2ca2ac1d02909742c-p_e.webp",
+    "https://photos.zillowstatic.com/fp/f8eb35f9377b386b17a47416e777dd5e-p_e.webp",
+    "https://photos.zillowstatic.com/fp/d983c2eee700ff3ac476177b0aa82201-p_e.webp",
+    "https://photos.zillowstatic.com/fp/d8df623f5b1067779c437397cfcf6543-zillow_web_95_35.jpg",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-cc_ft_192.webp",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-cc_ft_384.webp",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-cc_ft_576.webp",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-cc_ft_768.webp",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-cc_ft_960.webp",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-cc_ft_1152.webp",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-cc_ft_1344.webp",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-cc_ft_1536.webp",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-cc_ft_192.jpg",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-cc_ft_384.jpg",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-cc_ft_576.jpg",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-cc_ft_768.jpg",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-cc_ft_1152.jpg",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-cc_ft_1344.jpg",
+    "https://photos.zillowstatic.com/fp/6d1a9b7c67b8664d9163d3b625ed82c6-cc_ft_192.webp",
+    "https://photos.zillowstatic.com/fp/6d1a9b7c67b8664d9163d3b625ed82c6-cc_ft_384.webp",
+    "https://photos.zillowstatic.com/fp/6d1a9b7c67b8664d9163d3b625ed82c6-cc_ft_576.webp",
+    "https://photos.zillowstatic.com/fp/6d1a9b7c67b8664d9163d3b625ed82c6-cc_ft_768.webp",
+    "https://photos.zillowstatic.com/fp/6d1a9b7c67b8664d9163d3b625ed82c6-cc_ft_192.jpg",
+    "https://photos.zillowstatic.com/fp/6d1a9b7c67b8664d9163d3b625ed82c6-cc_ft_384.jpg",
+    "https://photos.zillowstatic.com/fp/6d1a9b7c67b8664d9163d3b625ed82c6-cc_ft_768.jpg",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-p_d.jpg",
+    "https://photos.zillowstatic.com/fp/6d1a9b7c67b8664d9163d3b625ed82c6-p_d.jpg",
+    "https://photos.zillowstatic.com/fp/6d1a9b7c67b8664d9163d3b625ed82c6-cc_ft_960.jpg",
+    "https://photos.zillowstatic.com/fp/6d1a9b7c67b8664d9163d3b625ed82c6-cc_ft_1152.jpg",
+    "https://photos.zillowstatic.com/fp/6d1a9b7c67b8664d9163d3b625ed82c6-cc_ft_1344.jpg",
+    "https://photos.zillowstatic.com/fp/6d1a9b7c67b8664d9163d3b625ed82c6-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/6d1a9b7c67b8664d9163d3b625ed82c6-cc_ft_960.webp",
+    "https://photos.zillowstatic.com/fp/6d1a9b7c67b8664d9163d3b625ed82c6-cc_ft_1152.webp",
+    "https://photos.zillowstatic.com/fp/6d1a9b7c67b8664d9163d3b625ed82c6-cc_ft_1344.webp",
+    "https://photos.zillowstatic.com/fp/6d1a9b7c67b8664d9163d3b625ed82c6-cc_ft_1536.webp",
+    "https://photos.zillowstatic.com/fp/cb7ae96a8c820b7a9374e1f7c29191ff-p_d.jpg",
+    "https://photos.zillowstatic.com/fp/cb7ae96a8c820b7a9374e1f7c29191ff-cc_ft_192.jpg",
+    "https://photos.zillowstatic.com/fp/cb7ae96a8c820b7a9374e1f7c29191ff-cc_ft_384.jpg",
+    "https://photos.zillowstatic.com/fp/cb7ae96a8c820b7a9374e1f7c29191ff-cc_ft_576.jpg",
+    "https://photos.zillowstatic.com/fp/cb7ae96a8c820b7a9374e1f7c29191ff-cc_ft_768.jpg",
+    "https://photos.zillowstatic.com/fp/cb7ae96a8c820b7a9374e1f7c29191ff-cc_ft_960.jpg",
+    "https://photos.zillowstatic.com/fp/cb7ae96a8c820b7a9374e1f7c29191ff-cc_ft_1152.jpg",
+    "https://photos.zillowstatic.com/fp/cb7ae96a8c820b7a9374e1f7c29191ff-cc_ft_1344.jpg",
+    "https://photos.zillowstatic.com/fp/cb7ae96a8c820b7a9374e1f7c29191ff-cc_ft_1536.jpg",
+    "https://photos.zillowstatic.com/fp/cb7ae96a8c820b7a9374e1f7c29191ff-cc_ft_192.webp",
+    "https://photos.zillowstatic.com/fp/cb7ae96a8c820b7a9374e1f7c29191ff-cc_ft_384.webp",
+    "https://photos.zillowstatic.com/fp/cb7ae96a8c820b7a9374e1f7c29191ff-cc_ft_576.webp",
+    "https://photos.zillowstatic.com/fp/cb7ae96a8c820b7a9374e1f7c29191ff-cc_ft_768.webp",
+    "https://photos.zillowstatic.com/fp/cb7ae96a8c820b7a9374e1f7c29191ff-cc_ft_960.webp",
+    "https://photos.zillowstatic.com/fp/cb7ae96a8c820b7a9374e1f7c29191ff-cc_ft_1152.webp",
+    "https://photos.zillowstatic.com/fp/cb7ae96a8c820b7a9374e1f7c29191ff-cc_ft_1344.webp",
+    "https://photos.zillowstatic.com/fp/cb7ae96a8c820b7a9374e1f7c29191ff-cc_ft_1536.webp",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-d_d.jpg",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-o_a.jpg",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-uncropped_scaled_within_1344_1008.jpg",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-uncropped_scaled_within_1536_1152.jpg",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-d_d.webp",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-o_a.webp",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-uncropped_scaled_within_1344_1008.webp",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-uncropped_scaled_within_1536_1152.webp",
+    "https://photos.zillowstatic.com/fp/6d1a9b7c67b8664d9163d3b625ed82c6-d_d.jpg",
+    "https://photos.zillowstatic.com/fp/6d1a9b7c67b8664d9163d3b625ed82c6-o_a.jpg",
+    "https://photos.zillowstatic.com/fp/6d1a9b7c67b8664d9163d3b625ed82c6-uncropped_scaled_within_1344_1008.jpg",
+    "https://photos.zillowstatic.com/fp/6d1a9b7c67b8664d9163d3b625ed82c6-uncropped_scaled_within_1536_1152.jpg",
+    "https://photos.zillowstatic.com/fp/6d1a9b7c67b8664d9163d3b625ed82c6-d_d.webp",
+    "https://photos.zillowstatic.com/fp/6d1a9b7c67b8664d9163d3b625ed82c6-o_a.webp",
+    "https://photos.zillowstatic.com/fp/6d1a9b7c67b8664d9163d3b625ed82c6-uncropped_scaled_within_1344_1008.webp",
+    "https://photos.zillowstatic.com/fp/6d1a9b7c67b8664d9163d3b625ed82c6-uncropped_scaled_within_1536_1152.webp",
+    "https://photos.zillowstatic.com/fp/cb7ae96a8c820b7a9374e1f7c29191ff-d_d.jpg",
+    "https://photos.zillowstatic.com/fp/cb7ae96a8c820b7a9374e1f7c29191ff-o_a.jpg",
+    "https://photos.zillowstatic.com/fp/cb7ae96a8c820b7a9374e1f7c29191ff-uncropped_scaled_within_1344_1008.jpg",
+    "https://photos.zillowstatic.com/fp/cb7ae96a8c820b7a9374e1f7c29191ff-uncropped_scaled_within_1536_1152.jpg",
+    "https://photos.zillowstatic.com/fp/cb7ae96a8c820b7a9374e1f7c29191ff-d_d.webp",
+    "https://photos.zillowstatic.com/fp/cb7ae96a8c820b7a9374e1f7c29191ff-o_a.webp",
+    "https://photos.zillowstatic.com/fp/cb7ae96a8c820b7a9374e1f7c29191ff-uncropped_scaled_within_1344_1008.webp",
+    "https://photos.zillowstatic.com/fp/cb7ae96a8c820b7a9374e1f7c29191ff-uncropped_scaled_within_1536_1152.webp",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-p_a.jpg",
+    "https://photos.zillowstatic.com/fp/ef42b40c6d79545e965809669cbea4c5-p_c.jpg"
+  ],
+  "notes": [
+    "photoUrls are best-effort; some galleries lazy-load ΓÇö scroll the gallery and re-run to capture more."
+  ]
+}
